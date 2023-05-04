@@ -1,5 +1,7 @@
 # Technical Writing Portfolio
-Showcasing a Senior Technical Writer's expertise in crafting concise content for various subjects. This portfolio highlights adaptability, effective self-help resources, and clear step-by-step solutions, demonstrating my skills in producing impactful technical documentation.
+Hi, I'm Courtney, a passionate technical writer, AI empowerment advocate, and entrepeneur. I believe in using the power of technology to help businesses of all sizes reach their full potential, and I'm excited about the possibilities for innovation and growth in the digital space.
+
+With my experience in content strategy, technical writing, and team leadership, I'm confident in my ability to contribute to any project and deliver outstanding results. More importantly, I'm committed to empowering others and promoting kindness in all my work, whether that's crafting engaging content or mentoring new team members. I'm passionate about collaborating with like-minded individuals who share a focus on innovation and growth, and who are committed to making a positive impact in the world. I love to work with teams that value empowering others, promoting kindness, and driving meaningful progress. Let's connect and discuss how we can collaborate to achieve great things together!
 
 
 # Certifications
