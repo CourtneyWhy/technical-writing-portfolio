@@ -3,12 +3,12 @@ Showcasing a Senior Technical Writer's expertise in crafting concise content for
 
 
 # Certifications
-- [Microsoft Certified Technology Specialist, Microsoft Windows, Microsoft](https://learn.microsoft.com/en-us/users/courtneywhite-1083/certifications/certification-details/certification.nouid.1519.md)
-- [Accessibility in Action, Microsoft]
-- [Develop and deploy applications on Kubernetes, Microsoft]
-- [Professional Certification, Advanced Search Engine Optimization, UC Davis]
-- [Professional Certification, Search Engine Optimization, BrightEdge]
-- [Professional Certification, Initiating and Planning Projects, UC Irvine]
+- Microsoft Certified Technology Specialist, Microsoft Windows, Microsoft
+- Accessibility in Action, Microsoft
+- Develop and deploy applications on Kubernetes, Microsoft
+- Professional Certification, Advanced Search Engine Optimization, UC Davis
+- Professional Certification, Search Engine Optimization, BrightEdge
+- Professional Certification, Initiating and Planning Projects, UC Irvine
 
 # Awards
 Microsoft Global Hackathon Executive Challenge 2022 Winner
