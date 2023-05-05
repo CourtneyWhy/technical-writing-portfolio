@@ -26,4 +26,4 @@ Microsoft Global Hackathon Executive Challenge 2022 Winner
 
 As a way to improve my understanding of Kubernetes, I decided to take a creative approach and wrote a children's book about it. The book was written with the help of ChatGPT and features illustrations created with the help of Midjourney.
 
-The book was a passion project for me and allowed me to deepen my understanding of Kubernetes while also exploring new avenues for AI and creative expression. Learn more about the writing of this book, and download a free copy [Discovering Kubernetes, a Fantastical Journey](placeholder-link](https://theconsciouslykind.com/blogs/blog/creating-a-kubernetes-childrens-book-with-ai-a-journey-of-magic-and-mishaps.md).
+The book was a passion project for me and allowed me to deepen my understanding of Kubernetes while also exploring new avenues for AI and creative expression. Learn more about the writing of this book, and download a free copy [Discovering Kubernetes, a Fantastical Journey](https://theconsciouslykind.com/blogs/blog/creating-a-kubernetes-childrens-book-with-ai-a-journey-of-magic-and-mishaps.md).
