@@ -37,6 +37,6 @@ If you have verified your VM configurations, network connectivity, and firewall 
 6. Check if there are any network security groups applied to the VM's subnet, and then verify that the appropriate rules are in place.
 7. Select the **Updates** tab, and then verify that the VM is up to date with all the latest operating system and security updates.
 8. Check the application logs and system logs on the VM to identify any errors or warnings related to connectivity issues.
-11. If necessary, check the performance and resource utilization of the VM to ensure that it has sufficient resources to function properly.
+9. If necessary, check the performance and resource utilization of the VM to ensure that it has sufficient resources to function properly.
 
 If you're still experiencing issues after following the steps in this article, check the [AKS troubleshooting guide](https://learn.microsoft.com/en-us/azure/aks/troubleshooting).
