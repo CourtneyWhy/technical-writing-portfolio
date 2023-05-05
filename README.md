@@ -22,6 +22,8 @@ Microsoft Global Hackathon Executive Challenge 2022 Winner
 
 - [Fixing Connectivity Issues with Azure Kubernetes Service (AKS) Clusters](https://github.com/CourtneyWhy/technical-writing-portfolio/blob/main/aks-cluster-connectivity-issues.md): This article provides a step-by-step guide to troubleshooting and resolving common connectivity issues in Azure Kubernetes Service (AKS) clusters, including verifying cluster configurations, checking network connectivity and firewall rules, and ensuring that Kubernetes resources are set up correctly.
 
+- [Troubleshooting Common Azure Virtual Machine Connectivity Issues](https://github.com/CourtneyWhy/technical-writing-portfolio/blob/main/troubleshooting-common-azure-virtual-machine-connectivity.md): This article, provides a step-by-step guide to troubleshooting common Azure Virtual Machine connectivity issues. It covers various scenarios, starting from the most common to the least common, and walks you through checking the VM configurations, network connectivity, firewall rules, and VM resources.
+
 ## Using Children's Books to Simplify Learning Complex Topics: A Case Study in Kubernetes
 
 As a way to improve my understanding of Kubernetes, I decided to take a creative approach and wrote a children's book about it. The book was written with the help of ChatGPT and features illustrations created with the help of Midjourney.
