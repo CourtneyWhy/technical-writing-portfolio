@@ -47,4 +47,4 @@ kubectl logs -n <namespace> <pod-name>
 ```
 6. Review the logs for any error messages or signs of misconfiguration. Address any issues you find and retest the connectivity to your AKS cluster.
 
-If you're still experiencing issues, check the [AKS troubleshooting guide](https://learn.microsoft.com/en-us/azure/aks/troubleshooting).
+If you're still experiencing issues after following the steps in this article, check the [AKS troubleshooting guide](https://learn.microsoft.com/en-us/azure/aks/troubleshooting).
