@@ -1,0 +1,42 @@
+# Troubleshooting Common Azure Virtual Machine Connectivity Issues
+
+If you're experiencing connectivity issues with your Azure Virtual Machine (VM), this article resolves provides information on how to disgnose and resolve the most common connectivity issues with network settings, firewall rules, and misconfigured virtual machine resources.
+
+
+### Verify Azure Virtual Machine Configurations
+
+1. Sign in to the Azure portal [Azure portal](https://portal.azure.com) and go to the Virtual Machines page.
+2. Select the virtual machine that is experiencing connectivity issues, and then select the **Networking** tab.
+3. Ensure the virtual machine is connected to the correct virtual network and subnet. If it is not, select the correct virtual network and subnet from the drop-down menu, and then select **Save**.5. Verify that the virtual machine has a public IP address assigned. If you need to connect remotely, the virtual machine must have a public IP address. If it doesn't, you can assign one by selecting **Add** under the "Public IP address" section and following the prompts.
+4. From the left menu, select **Virtual Machines**, select **Networking**, and then select the name of the network security group associated with the virtual machine.
+5. Select the **Inbound security rules** tab.
+6. Check the security group rules to ensure they allow the inbound traffic that you need. If the rules are incorrect or incomplete, select **Add** to add a new rule or modify the existing ones.
+7. Test the connectivity to the virtual machine again.
+
+If you're still experiencing connectivity issues, proceed to the next section and follow the steps to check your network connectivity and firewall rules.
+
+### Check Network Connectivity and Firewall Rules
+
+If you have verified that the VM's configurations are correct, check the network connectivity and firewall rules to ensure that they allow traffic to and from the VM.
+
+1. From the left menu, select **All Services**.
+2. Enter **Azure Firewall** in the search box, and then select **Azure Firewall** from the search results.
+3. On the Azure Firewall page, select the firewall that is associated with your virtual network.
+4. Under Settings, select **Inbound rules** and **Outbound rules** to view the rules that are currently in place.
+5. Review the rules to ensure they allow traffic on the ports and protocols that you need for your virtual machine.
+
+### Check Azure Virtual Machine Resources
+
+If you have verified your VM configurations, network connectivity, and firewall rules, and you're still having connectivity issues, check the Azure Virtual Machine's resources to ensure that they are set up correctly.
+
+1. From the left menu, select **Virtual Machines**, and then select the name of the virtual machine you are troubleshooting.
+2. In the virtual machine pane, select the **Extensions** tab.
+3. Check if any extensions are listed, and ensure they are installed and working properly.
+4. Select the **Disks** tab, verify that the VM's disks are in a healthy state, and then check if any disks are running out of space or if any have been disconnected.
+5. Select the **Networking** tab and verify that the VM is connected to the correct virtual network and subnet.
+6. Check if there are any network security groups applied to the VM's subnet, and then verify that the appropriate rules are in place.
+7. Select the **Updates** tab, and then verify that the VM is up to date with all the latest operating system and security updates.
+8. Check the application logs and system logs on the VM to identify any errors or warnings related to connectivity issues.
+9. If necessary, check the performance and resource utilization of the VM to ensure that it has sufficient resources to function properly.
+
+If you're still experiencing issues after following the steps in this article, check the [AKS troubleshooting guide](https://learn.microsoft.com/en-us/azure/aks/troubleshooting).
