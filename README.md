@@ -24,7 +24,7 @@ Microsoft Global Hackathon Executive Challenge 2022 Winner
 
 - [Troubleshooting problems signing into Skype](https://support.skype.com/en/faq/FA10038/troubleshooting-problems-signing-into-skype.md): This article provides a step-by-step guide to troubleshooting common sign-in issues with Skype, including forgetting user name or password, locked or compromised accounts, incorrect birthdate, unable to sign in using Facebook, and missing contacts or credit. The audience for this article is anyone who is experiencing difficulties signing in to their Skype account and needs help identifying the root cause of the issue and how to resolve it.
 
-- [Job seeker's ChatGPT prompt pack](https://theconsciouslykind.com/products/job-seekers-chatgpt-prompt-pack.md): These ChatGPT prompt packs are designed to help job seekers create polished and effective resumes and LinkedIn profiles that showcase their professional brand and experience. With prompts for crafting a tailored objective statement, a powerful summary statement, and a storytelling approach to your summary, these tools help you make a great first impression on potential employers. 
+- [Job seeker's ChatGPT prompt pack](https://theconsciouslykind.com/products/job-seekers-chatgpt-prompt-pack): These ChatGPT prompt packs are designed to help job seekers create polished and effective resumes and LinkedIn profiles that showcase their professional brand and experience. With prompts for crafting a tailored objective statement, a powerful summary statement, and a storytelling approach to your summary, these tools help you make a great first impression on potential employers. 
 
 
 ## Using Children's Books to Simplify Learning Complex Topics: A Case Study in Kubernetes
