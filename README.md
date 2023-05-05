@@ -18,11 +18,13 @@ I love to work with teams that value empowering others, promoting kindness, and 
 Microsoft Global Hackathon Executive Challenge 2022 Winner
 
 
-## Articles
+## Content
 
 - [Fixing Connectivity Issues with Azure Kubernetes Service (AKS) Clusters](https://github.com/CourtneyWhy/technical-writing-portfolio/blob/main/aks-cluster-connectivity-issues.md): This article is designed to help developers and IT professionals troubleshoot and resolve common connectivity issues in Azure Kubernetes Service (AKS) clusters. This article provides detailed instructions for verifying cluster configurations, checking network connectivity and firewall rules, and ensuring that Kubernetes resources are set up correctly.
 
 - [Troubleshooting problems signing into Skype](https://support.skype.com/en/faq/FA10038/troubleshooting-problems-signing-into-skype.md): This article provides a step-by-step guide to troubleshooting common sign-in issues with Skype, including forgetting user name or password, locked or compromised accounts, incorrect birthdate, unable to sign in using Facebook, and missing contacts or credit. The audience for this article is anyone who is experiencing difficulties signing in to their Skype account and needs help identifying the root cause of the issue and how to resolve it.
+
+- [Job seeker's ChatGPT prompt pack](https://theconsciouslykind.com/products/job-seekers-chatgpt-prompt-pack.md): These ChatGPT prompt packs are designed to help job seekers create polished and effective resumes and LinkedIn profiles that showcase their professional brand and experience. With prompts for crafting a tailored objective statement, a powerful summary statement, and a storytelling approach to your summary, these tools help you make a great first impression on potential employers. 
 
 
 ## Using Children's Books to Simplify Learning Complex Topics: A Case Study in Kubernetes
